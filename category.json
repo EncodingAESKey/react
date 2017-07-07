@@ -1,0 +1,56 @@
+{
+	"ret": true,
+	"data": {
+		"categories": [{
+			"category_id": 1,
+			"category_name": "国际足球",
+			"icon": "appstore"
+		},
+		{
+			"category_id": 2,
+			"category_name": "联合会杯",
+			"icon": "appstore"
+		},
+		{
+			"category_id": 3,
+			"category_name": "英超",
+			"icon": "appstore"
+		},
+		{
+			"category_id": 4,
+			"category_name": "西甲",
+			"icon": "appstore"
+		},
+		{
+			"category_id": 5,
+			"category_name": "中国足球",
+			"icon": "appstore"
+		},
+		{
+			"category_id": 6,
+			"category_name": "中超",
+			"icon": "appstore"
+		},
+		{
+			"category_id": 7,
+			"category_name": "国足",
+			"icon": "appstore"
+		},
+		{
+			"category_id": 8,
+			"category_name": "亚冠",
+			"icon": "appstore"
+		},
+		{
+			"category_id": 9,
+			"category_name": "中甲",
+			"icon": "appstore"
+		},
+		{
+			"category_id": 10,
+			"category_name": "NBA",
+			"icon": "appstore"
+		}
+		] 
+	}
+}

@@ -1,0 +1,100 @@
+{
+	"ret":true,
+	"data":{
+		"categorie1":[{
+			"title": "滚动",
+			"categorie_id": 1
+		},{
+			"title": "图片",
+			"categorie_id": 2
+		},{
+			"title": "非一般跑",
+			"categorie_id": 3
+		},{
+			"title": "社区",
+			"categorie_id": 4
+		},{
+			"title": "视频",
+			"categorie_id": 5
+		},{
+			"title": "直播",
+			"categorie_id": 6
+		},{
+			"title": "企鹅直播",
+			"categorie_id": 7
+		},{	
+			"title": "V+",
+			"categorie_id": 8
+		}
+		],
+		"categorie2":[{
+			"title": "NBA",
+			"categorie_id": 9
+		},{
+			"title": "点播",
+			"categorie_id": 10
+		},{
+			"title": "指数",
+			"categorie_id": 11
+		},{
+			"title": "专访",
+			"categorie_id": 12
+		},{
+			"title": "大话",
+			"categorie_id": 13
+		},{
+			"title": "ESPN",
+			"categorie_id": 14
+		},{
+			"title": "CBA",
+			"categorie_id": 15
+		},{
+			"title": "长三角挑战赛",
+			"categorie_id": 16
+		},{
+		}],
+
+		"categorie3":[{
+			"title": "国际足球",
+			"categorie_id": 17
+		},{
+			"title": "联合会杯",
+			"categorie_id": 18
+		},{
+			"title": "英超",
+			"categorie_id": 19
+		},{
+			"title": "西甲",
+			"categorie_id": 20
+		},{
+			"title": "中国足球",
+			"categorie_id": 21
+		},{
+			"title": "中超",
+			"categorie_id": 22
+		},{
+			"title": "国足",
+			"categorie_id": 23
+		}],
+
+		"categorie4":[{
+			"title": "综合",
+			"categorie_id": 24
+		},{
+			"title": "精英频道",
+			"categorie_id": 25
+		},{
+			"title": "搏击",
+			"categorie_id": 26
+		},{
+			"title": "NHL",
+			"categorie_id": 27
+		},{
+			"title": "勇闯天涯",
+			"categorie_id": 38
+		},{
+			"title": "棋牌",
+			"categorie_id": 39
+		}]
+	}
+}
