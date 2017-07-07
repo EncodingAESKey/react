@@ -1,0 +1,94 @@
+{
+	"ret": true,
+	"data": {
+		"categories": [{
+			"category_id": 1,
+			"category_name": "中国奥委会"
+		},
+		{
+			"category_id": 2,
+			"category_name": "中国羽毛球队"
+		},
+		{
+			"category_id": 3,
+			"category_name": "中国乒乓球队"
+		},
+		{
+			"category_id": 4,
+			"category_name": "中国体操队"
+		},
+		{
+			"category_id": 5,
+			"category_name": "央视体育"
+		},
+		{
+			"category_id": 6,
+			"category_name": "中国跳水队"
+		},
+		{
+			"category_id": 7,
+			"category_name": "中国射击队"
+		},
+		{
+			"category_id": 8,
+			"category_name": "体坛周报"
+		},
+		{
+			"category_id": 9,
+			"category_name": "NFL联盟"
+		},
+		{
+			"category_id": 10,
+			"category_name": "新华社"
+		},
+		{
+			"category_id": 11,
+			"category_name": "济南时报"
+		},
+		{
+			"category_id": 12,
+			"category_name": "青岛早报"
+		},
+		{
+			"category_id": 13,
+			"category_name": "京华时报"
+		},
+		{
+			"category_id": 14,
+			"category_name": "每日新报"
+		},
+		{
+			"category_id": 15,
+			"category_name": "新文化报"
+		},
+		{
+			"category_id": 16,
+			"category_name": "南方都市报"
+		},
+		{
+			"category_id": 17,
+			"category_name": "都市快报"
+		},
+		{
+			"category_id": 18,
+			"category_name": "重庆晨报"
+		},
+		{
+			"category_id": 19,
+			"category_name": "深圳商报"
+		},
+		{
+			"category_id": 20,
+			"category_name": "现代快报"
+		},
+		{
+			"category_id": 21,
+			"category_name": "哈尔滨英语"
+		},
+		{
+			"category_id": 22,
+			"category_name": "新闻晨报"
+		}
+		] 
+	}
+}
